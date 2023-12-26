@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
 </div>
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/breno-tt-andrade">
@@ -13,19 +13,19 @@
   </a>
 </div>
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br>My name is Breno Andrade and i'm a aspiring Full Stack Developer
+  Hi there,
+  <br>my name is Breno Andrade and i'm a aspiring Full Stack Developer
 </h1>
 
 ---
 
 ### A few things about me:
 
- - 🔭 I’m currently a student of Analysis and Systems Development.
- - 🌱 Right now i'm learning Game Development using JavaScript.
- - ⚡ I'm 25 years old.
- - 🌎 Born in Bahia, Brazil.
- - 🎹 Fun fact: I play piano.
+ - I’m currently a student of Analysis and Systems Development.
+ - Right now i'm learning Game Development using JavaScript.
+ - I'm 25 years old.
+ - Born in Bahia, Brazil.
+ - Fun fact: I play piano.
 
 ---
 
@@ -34,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
