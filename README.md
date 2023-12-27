@@ -13,8 +13,7 @@
   </a>
 </div>
 <h1 align="center">
-  Hi there,
-  <br>my name is Breno Andrade and i'm a aspiring Full Stack Developer
+  My name is Breno Andrade, <br>i'm a aspiring Full Stack Developer.
 </h1>
 
 ---
